@@ -3,3 +3,5 @@ I have a cake!
 It was a chocolate cake.
 
 It was for Rachel's birthday.
+
+Rachel's birthday is May 27, 2000.
